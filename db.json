@@ -1,0 +1,247 @@
+{
+  "messages": [
+    {
+      "id": 3,
+      "title": "报案理赔",
+      "source": "BX",
+      "content": "报案理赔XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+      "createTime": "2020-04-16T11:14:39",
+      "type": "notice",
+      "certNumber": "330184199807050018",
+      "status": "0"
+    },
+    {
+      "id": 4,
+      "title": "报案理赔",
+      "source": "BX",
+      "content": "报案理赔XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+      "createTime": "2020-04-16T11:14:41",
+      "type": "notice",
+      "certNumber": "330184199807050018",
+      "status": "0"
+    },
+    {
+      "id": 5,
+      "title": "报案理赔",
+      "source": "BX",
+      "content": "报案理赔XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+      "createTime": "2020-04-16T11:14:42",
+      "type": "notice",
+      "certNumber": "330184199807050018",
+      "status": "0"
+    },
+    {
+      "id": 2,
+      "title": "报案理赔",
+      "source": "BX",
+      "content": "报案理赔XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+      "createTime": "2020-04-16T11:14:31",
+      "type": "notice",
+      "certNumber": "330184199807050018",
+      "status": "1"
+    },
+    {
+      "id": 6,
+      "title": "test",
+      "source": "BX",
+      "content": "sds",
+      "createTime": "2020-04-17T14:37:17",
+      "type": "notice",
+      "certNumber": "330184199807050018",
+      "status": "0"
+    }
+  ],
+  "messageDetail": {
+    "id": 3,
+    "title": "报案理赔",
+    "source": "BX",
+    "content": "报案理赔XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "createTime": "2020-04-16T11:14:39",
+    "type": "notice",
+    "certNumber": "330184199807050018",
+    "status": "0"
+  },
+  "claimReportList": [
+    {
+      "insureId": "BX202004010900000001",
+      "status": "0",
+      "createTime": "2020-04-01T09:20:48",
+      "policyNumber": "873912381923780324",
+      "orgSimpleName": "浙江泰隆商业银行股份有限公司",
+      "insureDetailId": "BX202004010900000001-1"
+    },
+    {
+      "insureId": "BX202004010900000001",
+      "status": "0",
+      "createTime": "2020-04-01T09:20:48",
+      "policyNumber": "1376128739182374912",
+      "orgSimpleName": "杭州银行股份有限公司",
+      "insureDetailId": "BX202004010900000001-2"
+    },
+    {
+      "insureId": "BX202004081400000003",
+      "status": "0",
+      "createTime": "2020-04-08T14:01:52",
+      "policyNumber": "873912381923780324",
+      "orgSimpleName": "浙江泰隆商业银行股份有限公司",
+      "insureDetailId": "BX202004081400000003-1"
+    },
+    {
+      "insureId": "BX202004081400000003",
+      "status": "0",
+      "createTime": "2020-04-08T14:01:52",
+      "policyNumber": "1376128739182374912",
+      "orgSimpleName": "杭州银行股份有限公司",
+      "insureDetailId": "BX202004081400000003-2"
+    },
+    {
+      "insureId": "BX202004081400000003",
+      "status": "0",
+      "createTime": "2020-04-08T14:01:53",
+      "policyNumber": "13717283412838419",
+      "orgSimpleName": "渤海银行股份有限公司",
+      "insureDetailId": "BX202004081400000003-3"
+    },
+    {
+      "insureId": "BX202004081400000004",
+      "status": "0",
+      "createTime": "2020-04-08T14:03:58",
+      "policyNumber": "873912381923780324",
+      "orgSimpleName": "浙江泰隆商业银行股份有限公司",
+      "insureDetailId": "BX202004081400000004-1"
+    },
+    {
+      "insureId": "BX202004081400000004",
+      "status": "0",
+      "createTime": "2020-04-08T14:03:58",
+      "policyNumber": "1376128739182374912",
+      "orgSimpleName": "杭州银行股份有限公司",
+      "insureDetailId": "BX202004081400000004-2"
+    },
+    {
+      "insureId": "BX202004081400000004",
+      "status": "0",
+      "createTime": "2020-04-08T14:03:58",
+      "policyNumber": "13717283412838419",
+      "orgSimpleName": "渤海银行股份有限公司",
+      "insureDetailId": "BX202004081400000004-3"
+    },
+    {
+      "insureId": "BX202004101100000001",
+      "status": "0",
+      "createTime": "2020-04-10T11:04:33",
+      "policyNumber": "1376128739182374912",
+      "orgSimpleName": "杭州银行股份有限公司",
+      "insureDetailId": "BX202004101100000001-2"
+    },
+    {
+      "insureId": "BX202004101300000001",
+      "status": "0",
+      "createTime": "2020-04-10T13:56:46",
+      "policyNumber": "873912381923780324",
+      "orgSimpleName": "浙江泰隆商业银行股份有限公司",
+      "insureDetailId": "BX202004101300000001-1"
+    }
+  ],
+  "claimReportDetail": {
+    "insureId": "BX202004010900000001",
+    "insuredName": "测试1",
+    "sex": "2",
+    "birthday": "394824024",
+    "insuredPhone": "17719445315",
+    "certType": "0",
+    "certTypeValue": "身份证",
+    "certNumber": "342901199504111111",
+    "certStartTime": "3424254342",
+    "certEndTime": "343124243",
+    "dangerTime": "384124921349",
+    "dangerCourse": "测试数据",
+    "dangerCause": "1",
+    "dangerCauseValues": "疾病",
+    "dangerType": "1,2,3",
+    "dangerTypeValues": "伤残,重疾,门诊",
+    "accidentStatus": "尚未治疗",
+    "cureHospitalId": 3,
+    "cureHospitalName": "池州市第二医院",
+    "reporterName": "康昶毅",
+    "reporterPhone": "17719445315",
+    "relation": "本人",
+    "authId": null,
+    "authStatus": "0",
+    "status": "0",
+    "acceptingStaff": null,
+    "acceptTime": null,
+    "createTime": "2020-04-01T09:20:43",
+    "updateTime": "2020-04-01T09:20:44",
+    "delFlag": "0",
+    "totalReimburseAmount": null,
+    "policyNumberResponses": [
+      {
+        "id": 61,
+        "insureId": "BX202004010900000001",
+        "orgId": 8943,
+        "orgSimpleName": "浙江泰隆商业银行股份有限公司",
+        "policyNumber": "873912381923780324",
+        "status": "0",
+        "einvoiceResponses": [
+          {
+            "einvoiceNumber": "2000200",
+            "einvoiceCode": "138198234"
+          },
+          {
+            "einvoiceNumber": "34728392",
+            "einvoiceCode": "1238123999"
+          },
+          {
+            "einvoiceNumber": "10000000",
+            "einvoiceCode": "98126757"
+          }
+        ]
+      },
+      {
+        "id": 62,
+        "insureId": "BX202004010900000001",
+        "orgId": 9458,
+        "orgSimpleName": "杭州银行股份有限公司",
+        "policyNumber": "1376128739182374912",
+        "status": "0",
+        "einvoiceResponses": [
+          {
+            "einvoiceNumber": "2000200",
+            "einvoiceCode": "138198234"
+          },
+          {
+            "einvoiceNumber": "34728392",
+            "einvoiceCode": "1238123999"
+          },
+          {
+            "einvoiceNumber": "10000000",
+            "einvoiceCode": "98126757"
+          }
+        ]
+      },
+      {
+        "id": 63,
+        "insureId": "BX202004010900000001",
+        "orgId": 9541,
+        "orgSimpleName": "渤海银行股份有限公司",
+        "policyNumber": "13717283412838419",
+        "status": "2",
+        "einvoiceResponses": [
+          {
+            "einvoiceNumber": "2000200",
+            "einvoiceCode": "138198234"
+          },
+          {
+            "einvoiceNumber": "34728392",
+            "einvoiceCode": "1238123999"
+          },
+          {
+            "einvoiceNumber": "10000000",
+            "einvoiceCode": "98126757"
+          }
+        ]
+      }
+    ]
+  }
+}
