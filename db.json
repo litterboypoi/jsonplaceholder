@@ -80,7 +80,7 @@
     },
     {
       "insureId": "BX202004081400000003",
-      "status": "0",
+      "status": "1",
       "createTime": "2020-04-08T14:01:52",
       "policyNumber": "873912381923780324",
       "orgSimpleName": "浙江泰隆商业银行股份有限公司",
@@ -88,7 +88,7 @@
     },
     {
       "insureId": "BX202004081400000003",
-      "status": "0",
+      "status": "2",
       "createTime": "2020-04-08T14:01:52",
       "policyNumber": "1376128739182374912",
       "orgSimpleName": "杭州银行股份有限公司",
@@ -96,7 +96,7 @@
     },
     {
       "insureId": "BX202004081400000003",
-      "status": "0",
+      "status": "3",
       "createTime": "2020-04-08T14:01:53",
       "policyNumber": "13717283412838419",
       "orgSimpleName": "渤海银行股份有限公司",
@@ -104,7 +104,7 @@
     },
     {
       "insureId": "BX202004081400000004",
-      "status": "0",
+      "status": "1",
       "createTime": "2020-04-08T14:03:58",
       "policyNumber": "873912381923780324",
       "orgSimpleName": "浙江泰隆商业银行股份有限公司",
