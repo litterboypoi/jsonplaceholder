@@ -370,62 +370,6 @@
       "labelValue": "港澳居民来往内地通行证",
       "labelType": "1 ",
       "orderSort": 6
-    },
-    {
-      "id": 7,
-      "labelKey": "6",
-      "labelValue": "台湾同胞来往内地通行证",
-      "labelType": "1 ",
-      "orderSort": 7
-    },
-    {
-      "id": 8,
-      "labelKey": "7",
-      "labelValue": "临时身份证",
-      "labelType": "1 ",
-      "orderSort": 8
-    },
-    {
-      "id": 9,
-      "labelKey": "8",
-      "labelValue": "外国人居留证",
-      "labelType": "1 ",
-      "orderSort": 9
-    },
-    {
-      "id": 10,
-      "labelKey": "9",
-      "labelValue": "警官证",
-      "labelType": "1 ",
-      "orderSort": 10
-    },
-    {
-      "id": 11,
-      "labelKey": "10",
-      "labelValue": "香港身份证",
-      "labelType": "1 ",
-      "orderSort": 11
-    },
-    {
-      "id": 12,
-      "labelKey": "11",
-      "labelValue": "澳门身份证",
-      "labelType": "1 ",
-      "orderSort": 12
-    },
-    {
-      "id": 13,
-      "labelKey": "12",
-      "labelValue": "台湾身份证",
-      "labelType": "1 ",
-      "orderSort": 13
-    },
-    {
-      "id": 14,
-      "labelKey": "13",
-      "labelValue": "其他证件",
-      "labelType": "1 ",
-      "orderSort": 14
     }
   ]
 }
