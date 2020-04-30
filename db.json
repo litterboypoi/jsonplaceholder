@@ -371,5 +371,31 @@
       "labelType": "1",
       "orderSort": 6
     }
+  ],
+  "claimOrgList": [
+    {
+      "orgId": "1",
+      "logo":"http://localhost:5000/bank-icon/ABC.png",
+      "orgSimpleName":"中国人保",
+      "desc": "中国人保副文本文案内容内容内容内容内容内容内容内容内容内容内容内容"
+    },
+    {
+      "orgId": "2",
+      "logo":"http://localhost:5000/bank-icon/BOC.png",
+      "orgSimpleName":"国华人寿",
+      "desc": "国华人寿副文本文案内容内容内容内容内容内容内容内容内容内容内容内容"
+    },
+    {
+      "orgId": "3",
+      "logo":"http://localhost:5000/bank-icon/CIB.png",
+      "orgSimpleName":"平安保险",
+      "desc": "众安保险副文本文案内容内容内容内容内容内容内容内容内容内容内容内容"
+    },
+    {
+      "orgId": "4",
+      "logo":"http://localhost:5000/bank-icon/GDB.png",
+      "orgSimpleName":"太平洋保险",
+      "desc": "国华人寿副文本文案内容内容内容内容内容内容内容内容内容内容内容内容"
+    }
   ]
 }
