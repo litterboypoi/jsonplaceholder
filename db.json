@@ -11,26 +11,6 @@
       "status": "0"
     },
     {
-      "id": 4,
-      "title": "报案理赔",
-      "source": "BX",
-      "content": "报案理赔XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-      "createTime": "2020-04-16T11:14:41",
-      "type": "notice",
-      "certNumber": "330184199807050018",
-      "status": "0"
-    },
-    {
-      "id": 5,
-      "title": "报案理赔",
-      "source": "BX",
-      "content": "报案理赔XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-      "createTime": "2020-04-16T11:14:42",
-      "type": "notice",
-      "certNumber": "330184199807050018",
-      "status": "0"
-    },
-    {
       "id": 2,
       "title": "报案理赔",
       "source": "BX",
@@ -125,22 +105,6 @@
       "policyNumber": "13717283412838419",
       "orgSimpleName": "渤海银行股份有限公司",
       "insureDetailId": "BX202004081400000004-3"
-    },
-    {
-      "insureId": "BX202004101100000001",
-      "status": "0",
-      "createTime": "2020-04-10T11:04:33",
-      "policyNumber": "1376128739182374912",
-      "orgSimpleName": "杭州银行股份有限公司",
-      "insureDetailId": "BX202004101100000001-2"
-    },
-    {
-      "insureId": "BX202004101300000001",
-      "status": "0",
-      "createTime": "2020-04-10T13:56:46",
-      "policyNumber": "873912381923780324",
-      "orgSimpleName": "浙江泰隆商业银行股份有限公司",
-      "insureDetailId": "BX202004101300000001-1"
     }
   ],
   "claimReportDetail": {
@@ -213,10 +177,6 @@
           {
             "einvoiceNumber": "34728392",
             "einvoiceCode": "1238123999"
-          },
-          {
-            "einvoiceNumber": "10000000",
-            "einvoiceCode": "98126757"
           }
         ]
       },
@@ -267,41 +227,6 @@
       "orderSort": 1
     },
     {
-      "id": 16,
-      "labelKey": "2",
-      "labelValue": "意外",
-      "labelType": "2",
-      "orderSort": 2
-    },
-    {
-      "id": 17,
-      "labelKey": "1",
-      "labelValue": "伤残",
-      "labelType": "3",
-      "orderSort": 1
-    },
-    {
-      "id": 18,
-      "labelKey": "2",
-      "labelValue": "重疾",
-      "labelType": "3",
-      "orderSort": 2
-    },
-    {
-      "id": 19,
-      "labelKey": "3",
-      "labelValue": "门诊",
-      "labelType": "3",
-      "orderSort": 3
-    },
-    {
-      "id": 20,
-      "labelKey": "4",
-      "labelValue": "住院",
-      "labelType": "3",
-      "orderSort": 4
-    },
-    {
       "id": 21,
       "labelKey": "5",
       "labelValue": "身故",
@@ -314,62 +239,6 @@
       "labelValue": "尚未治疗",
       "labelType": "4",
       "orderSort": 1
-    },
-    {
-      "id": 23,
-      "labelKey": "2",
-      "labelValue": "门诊治疗",
-      "labelType": "4",
-      "orderSort": 2
-    },
-    {
-      "id": 24,
-      "labelKey": "3",
-      "labelValue": "住院治疗",
-      "labelType": "4",
-      "orderSort": 3
-    },
-    {
-      "id": 25,
-      "labelKey": "4",
-      "labelValue": "阶段治疗结束",
-      "labelType": "4",
-      "orderSort": 4
-    },
-    {
-      "id": 26,
-      "labelKey": "5",
-      "labelValue": "身故",
-      "labelType": "4",
-      "orderSort": 5
-    },
-    {
-      "id": 3,
-      "labelKey": "2",
-      "labelValue": "护照",
-      "labelType": "1",
-      "orderSort": 3
-    },
-    {
-      "id": 4,
-      "labelKey": "3",
-      "labelValue": "军官证",
-      "labelType": "1",
-      "orderSort": 4
-    },
-    {
-      "id": 5,
-      "labelKey": "4",
-      "labelValue": "士兵证",
-      "labelType": "1",
-      "orderSort": 5
-    },
-    {
-      "id": 6,
-      "labelKey": "5",
-      "labelValue": "港澳居民来往内地通行证",
-      "labelType": "1",
-      "orderSort": 6
     }
   ],
   "claimOrgList": [
