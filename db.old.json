@@ -1,0 +1,44 @@
+{
+  "messages": [
+    {
+      "id": 3,
+      "title": "报案理赔",
+      "source": "BX",
+      "content": "报案理赔XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+      "createTime": "2020-04-16T11:14:39",
+      "type": "notice",
+      "certNumber": "330184199807050018",
+      "status": "0"
+    },
+    {
+      "id": 2,
+      "title": "报案理赔",
+      "source": "BX",
+      "content": "报案理赔XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+      "createTime": "2020-04-16T11:14:31",
+      "type": "notice",
+      "certNumber": "330184199807050018",
+      "status": "1"
+    },
+    {
+      "id": 6,
+      "title": "test",
+      "source": "BX",
+      "content": "sds",
+      "createTime": "2020-04-17T14:37:17",
+      "type": "notice",
+      "certNumber": "330184199807050018",
+      "status": "0"
+    }
+  ],
+  "messageDetail": {
+    "id": 3,
+    "title": "报案理赔",
+    "source": "BX",
+    "content": "报案理赔XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "createTime": "2020-04-16T11:14:39",
+    "type": "notice",
+    "certNumber": "330184199807050018",
+    "status": "0"
+  }
+}
